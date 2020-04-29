@@ -1,3 +1,11 @@
+# T3-compiled objects
+obj/
+*.t3
+
+# These are C .gitignore targets, because it seemed like the closest thing in the
+# list of potential .gitignore exemplars; delete these at some point if they don't
+# ever seem to be useful.
+
 # Prerequisites
 *.d
 
